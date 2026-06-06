@@ -2869,7 +2869,7 @@
         "id": "9d09ded3700c253d",
         "type": "random",
         "z": "e88d338fd44b7ce8",
-        "name": "",
+        "name": "Aleatorios",
         "low": "0",
         "high": "100",
         "inte": "true",
