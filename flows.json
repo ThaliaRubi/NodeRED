@@ -3791,7 +3791,7 @@
         "id": "a2ac40ccc71c866a",
         "type": "function",
         "z": "e88d338fd44b7ce8",
-        "name": "function 6",
+        "name": "Funcion Humedad",
         "func": "let res = (msg.Humedad * 3) + 2.5;\nmsg.Humedad = res;\nreturn msg;",
         "outputs": 1,
         "timeout": 0,
@@ -3799,7 +3799,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 700,
+        "x": 730,
         "y": 620,
         "wires": [
             [
