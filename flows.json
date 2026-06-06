@@ -1195,48 +1195,6 @@
         "groupType": "default"
     },
     {
-        "id": "21645e7d0ed6321d",
-        "type": "ui-group",
-        "name": "Home",
-        "page": "7593dfda0147bddf",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "80e175b6b88a317c",
-        "type": "ui-group",
-        "name": "Grupo 1",
-        "page": "63be77d8553c67d0",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "05bf6534cd068715",
-        "type": "ui-group",
-        "name": "Grupo 2",
-        "page": "6d474b36cf1c7d9d",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
         "id": "b9ded8d1b96ca6b4",
         "type": "ui-theme",
         "name": "Default Theme 1",
@@ -1254,62 +1212,6 @@
             "groupBorderRadius": "4px",
             "widgetGap": "12px"
         }
-    },
-    {
-        "id": "b8d16b4c6198d123",
-        "type": "ui-group",
-        "name": "Grupo4",
-        "page": "96a70582bfc6e2e2",
-        "width": "3",
-        "height": "4",
-        "order": 4,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "9f47bd2fedc41953",
-        "type": "ui-group",
-        "name": "Group 1",
-        "page": "96a70582bfc6e2e2",
-        "width": "3",
-        "height": "2",
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "6f04ad5878d0f3c7",
-        "type": "ui-group",
-        "name": "Grupo3",
-        "page": "96a70582bfc6e2e2",
-        "width": "3",
-        "height": "3",
-        "order": 3,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "64c4658176b60c39",
-        "type": "ui-group",
-        "name": "Grupo2",
-        "page": "96a70582bfc6e2e2",
-        "width": "3",
-        "height": "3",
-        "order": 2,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
     },
     {
         "id": "618840ed09ee4010",
@@ -5139,8 +5041,8 @@
         "enablePointerup": false,
         "pointerupPayload": "",
         "pointerupPayloadType": "str",
-        "x": 500,
-        "y": 100,
+        "x": 480,
+        "y": 60,
         "wires": [
             [
                 "7c06e23706712e51",
