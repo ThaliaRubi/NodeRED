@@ -1,0 +1,12 @@
+{
+    "name": "Clase6",
+    "description": "Ejemplo con chart lineas, area, bar",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
