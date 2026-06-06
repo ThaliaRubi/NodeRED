@@ -2088,7 +2088,7 @@
         "topic": "",
         "payload": "Sensor",
         "payloadType": "str",
-        "x": 250,
+        "x": 190,
         "y": 120,
         "wires": [
             [
